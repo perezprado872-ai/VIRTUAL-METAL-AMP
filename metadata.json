@@ -1,0 +1,7 @@
+{
+  "name": "VIRTUAL METAL AMP",
+  "description": "An interactive virtual amplifier based on a custom design. Dial in your tone using the knobs and use Gemini to generate a unique name and description for your sound.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
